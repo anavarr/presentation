@@ -1,0 +1,23 @@
+\begin{table}[htb]
+    \centering
+    \setlength{\tabcolsep}{2pt}
+    \small
+    \begin{tabularx}{\columnwidth}{ @{}| X || X | X |@{}}
+        \hline
+        \thead{Strategy} &  \thead{Pros}
+        &   \thead{Cons} \\
+        \hline\hline
+        Forking worker model & Simple, fits virtual threads model & Context switches\\
+        \hline
+        Using event-loop as carrier & No context-switch, Fewer threads overall 
+        & Potential deadlocks \\
+        \hline
+        Modifying Netty event-loops to be virtual threads 
+        & Integration done at the Netty level, Netty-based frameworks would benefit from it
+        & Can't modify Netty upstream, unpredictable effects\\
+        \hline
+        
+    \end{tabularx}
+    \caption{Comparison of the different Quarkus-virtual-threads options}
+    \label{table:quarkusLoomComp}
+\end{table}
