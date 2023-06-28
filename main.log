@@ -2138,4 +2138,121 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]|\TU/FiraSans(0)/m/
+[]|\TU/FiraSans(0)/m/n/8 In-te-gra-tion done at the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\TU/FiraSans(0)/m/n/8 Netty level, Netty-based
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 21--21
+\TU/FiraSans(0)/m/n/8 frame-works would ben-e-fit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\TU/FiraSans(0)/m/n/8 Can’t mod-ify Netty up-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\TU/FiraSans(0)/m/n/8 stream, un-pre-dictable
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'table:quarkusLoomComp'
+) [29
+
+]
+File: assets/forking_workers.png Graphic file (type png)
+<use assets/forking_workers.png>
+Package luatex.def Info: assets/forking_workers.png  used on input line 443.
+(luatex.def)             Requested size: 321.51625pt x 109.84416pt.
+ [30
+
+] (./main.toc) [31
+
+]
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 454.
+ [32
+
+] [33
+
+]
+<assets/exp.png, id=224, 1171.37625pt x 324.21124pt>
+File: assets/exp.png Graphic file (type png)
+<use assets/exp.png>
+Package luatex.def Info: assets/exp.png  used on input line 484.
+(luatex.def)             Requested size: 321.51625pt x 88.98769pt.
+ [34
+
+<./assets/exp.png>] (./main.toc) [35
+
+]
+<assets/nano_baseline_19.0.1.png, id=241, 1094.1678pt x 594.7821pt>
+File: assets/nano_baseline_19.0.1.png Graphic file (type png)
+<use assets/nano_baseline_19.0.1.png>
+Package luatex.def Info: assets/nano_baseline_19.0.1.png  used on input line 489.
+(luatex.def)             Requested size: 321.51625pt x 174.76945pt.
+ [36
+
+<./assets/nano_baseline_19.0.1.png>]
+<assets/nano_200_19.0.1.png, id=248, 1086.9408pt x 594.7821pt>
+File: assets/nano_200_19.0.1.png Graphic file (type png)
+<use assets/nano_200_19.0.1.png>
+Package luatex.def Info: assets/nano_200_19.0.1.png  used on input line 492.
+(luatex.def)             Requested size: 321.51625pt x 175.93112pt.
+ [37
+
+<./assets/nano_200_19.0.1.png>]
+<assets/GC_measures.png, id=255, 968.61874pt x 693.59125pt>
+File: assets/GC_measures.png Graphic file (type png)
+<use assets/GC_measures.png>
+Package luatex.def Info: assets/GC_measures.png  used on input line 495.
+(luatex.def)             Requested size: 289.36266pt x 207.20056pt.
+ [38
+
+<./assets/GC_measures.png>] [39
+
+] [40
+
+] [41
+
+] [42
+
+]
+\tf@nav=\write5
+
+\openout5 = main.nav
+\tf@toc=\write6
+
+\openout6 = main.toc
+\tf@snm=\write7
+
+\openout7 = main.snm
+ (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 39623 strings out of 478278
+ 100000,1977958 words of node,token memory allocated
+ 3851 words of node memory still in use:
+   25 hlist, 9 vlist, 5 rule, 24 disc, 2 local_par, 76 glue, 58 kern, 15 penalty, 229 glyph, 63 attribute, 64 glue_spec, 63 attribute_list, 4 write, 8 pdf_literal, 20 pdf_colorstack nodes
+   avail lists: 2:1553,3:725,4:678,5:1326,6:149,7:4691,8:2,9:3605,10:13,11:117
+ 58025 multiletter control sequences out of 65536+600000
+ 141 fonts using 42414691 bytes
+ 128i,17n,148p,488b,1097s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf>
+Output written on main.pdf (42 pages, 956434 bytes).
+
+PDF statistics: 335 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
+ 90 named destinations out of 1000 (max. 131072)
+ 48 words of extra memory for PDF output out of 10000 (max. 100000000)
+

@@ -697,3 +697,10 @@ INPUT ./assets/nano_baseline_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
+INPUT ./assets/GC_measures.png
+INPUT ./assets/GC_measures.png
+INPUT ./assets/GC_measures.png
+OUTPUT main.nav
+OUTPUT main.toc
+OUTPUT main.snm
+INPUT ./main.aux
