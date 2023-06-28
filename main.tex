@@ -269,13 +269,13 @@ return names;
     \input{integration_strategies_table.tex}
 \end{frame}
 \begin{frame}{Forking the worker model}
-    \includegraphics[width=\textwidth]{assets/forking_worker.png}
+    \includegraphics[width=\textwidth]{assets/forking_workers.png}
 \end{frame}
 \begin{frame}{Reusing event-loops}
-    SCHEMA
+    \includegraphics[width=\textwidth]{assets/el_ct.png}
 \end{frame}
 \begin{frame}{"Virtualizing" Netty event-loops}
-    SCHEMA
+    \includegraphics[width=\textwidth]{assets/vt_el.png}
 \end{frame}
 \begin{frame}{Deadlock: roles of the event-loop}
     \begin{enumerate}
@@ -288,23 +288,44 @@ return names;
     SCHEMA    
 \end{frame}
 \begin{frame}{Deadlock: sharing locks}
-    \begin{block}{Conclusion}
+    \begin{alertblock}{Conclusion}
         The event-loop can't reuse locks \emph{as a carrier}
+    \end{alertblock}
+\end{frame}
+\begin{frame}{Integration strategies summary}
+    \input{integration_strategies_table.tex}
+\end{frame}
+\begin{frame}{Final Choice: Forking the worker model}
+    \includegraphics[width=\textwidth]{assets/forking_workers.png}
+\end{frame}
+
+
+\section{The experiment}
+\begin{frame}{The experiment}
+    \begin{block}{Goal}
+        Measure how performance of the application is affected by replacing reactive endpoints with virtual-threads offloading, in conditions close to
     \end{block}
-\end{frame}
-
-
-\section{Goals of the experiment}
-\begin{frame}{Goals}
-    \begin{itemize}
-        \item Measure how performance of the application is affected by 
-        \item second goal 
-    \end{itemize}
-\end{frame}
-\begin{frame}{Hypothesis}
     \begin{block}{Hypothesis}
-        Quarkus-virtual-threads should perform better than Quarkus-blocking but not as well as Quarkus-reactive
+        \textbf{Quarkus-virtual-threads} should perform better than \textbf{Quarkus-blocking} but not as well as \textbf{Quarkus-reactive}
     \end{block}
+\end{frame}
+\begin{frame}{The environment}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            Limited resouces
+            \begin{itemize}    
+                \item 512MB memory
+                \item 0.5 vCPU
+                \item 256MB heap
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            
+            \begin{itemize}    
+                \item limited resouces
+            \end{itemize}
+        \end{column}
+    \end{columns}
 \end{frame}
 
 \section{Experimental protocol}
