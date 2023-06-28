@@ -1,5 +1,4 @@
 \beamer@sectionintoc {1}{Context}{2}{0}{1}
-\beamer@sectionintoc {2}{Integration}{15}{0}{2}
-\beamer@sectionintoc {3}{The experiment}{25}{0}{3}
-\beamer@sectionintoc {4}{Experimental protocol}{28}{0}{4}
-\beamer@sectionintoc {5}{Results}{30}{0}{5}
+\beamer@sectionintoc {2}{Integration}{20}{0}{2}
+\beamer@sectionintoc {3}{The experiment}{30}{0}{3}
+\beamer@sectionintoc {4}{Results}{34}{0}{4}

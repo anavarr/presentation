@@ -113,6 +113,114 @@
         \begin{column}{0.36\textwidth}
             \begin{itemize}
                 \item resource-efficiency
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+    \end{columns}
+\end{frame}
+\begin{frame}{Make microservices cheap}
+    \setbeamertemplate{itemize item}{}
+    \begin{columns}
+        \begin{column}{0.36\textwidth}
+            \begin{itemize}
+                \item resource-efficiency
+                \item resource-efficiency
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+    \end{columns}
+\end{frame}
+\begin{frame}{Make microservices cheap}
+    \setbeamertemplate{itemize item}{}
+    \begin{columns}
+        \begin{column}{0.36\textwidth}
+            \begin{itemize}
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+    \end{columns}
+\end{frame}
+\begin{frame}{Make microservices cheap}
+    \setbeamertemplate{itemize item}{}
+    \begin{columns}
+        \begin{column}{0.36\textwidth}
+            \begin{itemize}
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+    \end{columns}
+\end{frame}
+\begin{frame}{Make microservices cheap}
+    \setbeamertemplate{itemize item}{}
+    \begin{columns}
+        \begin{column}{0.36\textwidth}
+            \begin{itemize}
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+            \begin{itemize}
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+                \item resource-efficiency
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.36\textwidth}
+        \end{column}
+    \end{columns}
+\end{frame}
+\begin{frame}{Make microservices cheap}
+    \setbeamertemplate{itemize item}{}
+    \begin{columns}
+        \begin{column}{0.36\textwidth}
+            \begin{itemize}
+                \item resource-efficiency
                 \item resource-efficiency
                 \item resource-efficiency
                 \item resource-efficiency
@@ -251,6 +359,12 @@ return Uni.combine().all()
         \end{lstlisting}
     \end{figure}
 \end{frame}
+\begin{frame}{Asynchronous programming abstractions}
+    \begin{quote}
+        We should do (as wise programmers aware of our limitations) our utmost best to shorten the conceptual gap between the static program and the dynamic process, to \textbf{make the correspondence between the program (spread out in text space) and the process (spread out in time) as trivial as possible}.
+    \end{quote}
+    Edgar. J. Dijkstra, 1968
+\end{frame}
 \begin{frame}[fragile]{Code comparison - virtual threads}
     \begin{figure}
         \begin{lstlisting}
@@ -263,17 +377,41 @@ return names;
         \end{lstlisting}
     \end{figure}
 \end{frame}
-\begin{frame}{Asynchronous programming abstractions}
-    \begin{quote}
-        We should do (as wise programmers aware of our limitations) our utmost best to shorten the conceptual gap between the static program and the dynamic process, to \textbf{make the correspondence between the program (spread out in text space) and the process (spread out in time) as trivial as possible}.
-    \end{quote}
-    Edgar. J. Dijkstra, 1968
-\end{frame}
-\begin{frame}{Finally, virtual threads}
+\begin{frame}{Virtual threads}
     \includegraphics[width=\textwidth]{assets/threads_virtual_threads.png}
 \end{frame}
 
 \section{Integration}
+\begin{frame}[fragile]{A quick overview of Quarkus}
+    \begin{columns}
+        \begin{column}{0.55\textwidth}
+            \begin{figure}
+                \begin{lstlisting}
+@GET
+@Path("/reactive")
+Uni<Fortune> reactive() {
+    return repo
+        .findAllAsync()
+        .map(this::pickOne);
+}
+                \end{lstlisting}
+            \end{figure}
+        \end{column}
+        \begin{column}{0.55\textwidth}
+            \begin{figure}
+                \begin{lstlisting}
+@GET
+@Path("/virtual-threads")
+@RunOnVirtualThread
+Fortune loomWithJdbc() {
+    var list = repo.findAll();
+    return pickOne(list);
+}
+                \end{lstlisting}
+            \end{figure}
+        \end{column}
+    \end{columns}
+\end{frame}
 \begin{frame}{Three integration strategies}
     \input{integration_strategies_table.tex}
 \end{frame}
@@ -286,15 +424,7 @@ return names;
 \begin{frame}{"Virtualizing" Netty event-loops}
     \includegraphics[width=\textwidth]{assets/vt_el.png}
 \end{frame}
-\begin{frame}{Deadlock: roles of the event-loop}
-    \begin{enumerate}
-        \item event-loop for the entire non-blocking inner-workings of the framework, 
-        \item event-loop for the non-blocking endpoint handlers,
-        \item work as a carrier thread for virtual threads
-    \end{enumerate}
-\end{frame}
 \begin{frame}{Deadlock situation}
-    SCHEMA    
 \end{frame}
 \begin{frame}{Deadlock: sharing locks}
     \begin{alertblock}{Conclusion}
@@ -312,7 +442,7 @@ return names;
 \section{The experiment}
 \begin{frame}{The experiment}
     \begin{block}{Goal}
-        Measure how performance of the application is affected by replacing reactive endpoints with virtual-threads offloading, in conditions close to
+        Measure how performance of the application is affected by replacing reactive endpoints with virtual-threads offloading
     \end{block}
     \begin{block}{Hypothesis}
         \textbf{Quarkus-virtual-threads} should perform better than \textbf{Quarkus-blocking} but not as well as \textbf{Quarkus-reactive}
@@ -321,27 +451,34 @@ return names;
 \begin{frame}{The environment}
     \begin{columns}
         \begin{column}{0.5\textwidth}
-            Limited resouces
-            \begin{itemize}    
-                \item 512MB memory
-                \item 0.5 vCPU
-                \item 256MB heap
-            \end{itemize}
+            \begin{center}
+                \Large{Limited resources}
+                \vspace{0.76cm}
+                \normalsize
+                \begin{itemize}    
+                    \item 512MB memory
+                    \item 0.5 vCPU
+                    \item 256MB heap
+                \end{itemize}
+            \end{center}
         \end{column}
-        \begin{column}{0.5\textwidth}
-            
-            \begin{itemize}    
-                \item limited resouces
-            \end{itemize}
+        \begin{column}{0.48\textwidth}
+            \begin{center}
+                \Large{Fault-inducing settings}
+                \vspace{0.5cm}
+                \normalsize
+                \begin{itemize}    
+                    \item 200ms of delay between the DB and the server
+                    \item Hyperfoil to avoid Coordinated Omission
+                \end{itemize}
+            \end{center}
         \end{column}
     \end{columns}
 \end{frame}
-
-\section{Experimental protocol}
 \begin{frame}{Elements of the experiment}
     \includegraphics[width=\textwidth]{assets/exp.png}
 \end{frame}
-
+\normalsize
 \section{Results}
 \begin{frame}{Results without delay}
     \includegraphics[width=\textwidth]{assets/nano_baseline_19.0.1.png}
@@ -349,12 +486,32 @@ return names;
 \begin{frame}{Results with 200ms delay}
     \includegraphics[width=\textwidth]{assets/nano_200_19.0.1.png}
 \end{frame}
-\begin{frame}{Conclusions}
-    \begin{tabular}{l | c}
-        performance &  Quarkus-blocking < Quarkus-virtual-threads < Quarkus-reactive \\
-        \hline
-        resource efficiency & x\\
-    \end{tabular}
+\begin{frame}{Garbage Collection detail}
+    \includegraphics[width=0.9\textwidth]{assets/GC_measures.png}
 \end{frame}
-
+\begin{frame}{Explaining longer Garbage Collection}
+    \begin{itemize}
+        \item Too many virtual threads exist in memory at the same time.   
+        \item Data structures generated by Quarkus/Netty pollute memory.
+    \end{itemize}
+\end{frame}
+\begin{frame}{Explaining longer Garbage Collection}
+    \begin{itemize}
+        \item Too many virtual threads exist in memory at the same time.   
+        \item \textcolor{red}{Data structures generated by Quarkus/Netty pollute memory.}
+    \end{itemize}
+\end{frame}
+\begin{frame}{Conclusions}
+    \begin{itemize}
+        \item Although \emph{Quarkus-virtual-threads} outperforms \emph{Quarkus-blocking} in the context of the experiment, it still does not scale to the concurrency of \emph{Quarkus-reactive}.
+        \item Memory consumption is especially high for \emph{Quarkus-virtual-threads}.
+        \item Virtual threads are not directly responsible for the high memory consumption.
+        \item Data structures generated by \emph{Quarkus/Netty} are the main memory consumers.
+    \end{itemize}
+\end{frame}
+\begin{frame}{Generalizing the results}
+    \begin{quote}
+        The integration of virtual threads in frameworks built on top of Netty or that rely heavily on ThreadLocals, presuming a small thread count, is likely to experience significant garbage collection (GC) pressure.
+    \end{quote}
+\end{frame}
 \end{document}
