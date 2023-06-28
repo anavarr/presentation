@@ -634,9 +634,9 @@ INPUT ./main.toc
 INPUT ./assets/acceptor_system.png
 INPUT ./assets/acceptor_system.png
 INPUT ./assets/acceptor_system.png
-INPUT ./assets/nano_200_19.0.1.png
-INPUT ./assets/nano_200_19.0.1.png
-INPUT ./assets/nano_200_19.0.1.png
+INPUT ./assets/event_queue.png
+INPUT ./assets/event_queue.png
+INPUT ./assets/event_queue.png
 OUTPUT main.vrb
 INPUT ./main.vrb
 INPUT ./main.vrb
@@ -693,6 +693,7 @@ INPUT ./main.toc
 INPUT ./assets/nano_baseline_19.0.1.png
 INPUT ./assets/nano_baseline_19.0.1.png
 INPUT ./assets/nano_baseline_19.0.1.png
+INPUT ./assets/nano_200_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
 OUTPUT main.nav
