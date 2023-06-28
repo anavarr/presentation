@@ -171,12 +171,21 @@
 \end{frame}
 \begin{frame}{Scaling and reactive programming}
     \begin{alertblock}{Problem}
-        communications over the network are unreliable and slow
+        Communications over the network are unreliable and slow.
     \end{alertblock}
-    \begin{block}{Solutions}
-        efficient and timely communication between services
-        historically brought by non-blocking, asynchronous abstractions in the OS
+    \begin{block}{Goal}
+        Achieving efficient and timely communication between services.
     \end{block}
+\end{frame}
+\begin{frame}{Non-blocking and blocking programming}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \includegraphics[width=\textwidth]{assets/acceptor_system.png}
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \includegraphics[width=\textwidth]{assets/nano_200_19.0.1.png}
+        \end{column}
+    \end{columns}
 \end{frame}
 \begin{frame}{Non-blocking abstractions}
     \begin{columns}
@@ -195,9 +204,6 @@
             \end{itemize}
         \end{column}
     \end{columns}
-\end{frame}
-\begin{frame}{Finally, virtual threads}
-    \includegraphics[width=\textwidth]{assets/threads_virtual_threads.png}
 \end{frame}
 \begin{frame}[fragile]{Code comparison - blocking}
     \begin{figure}
@@ -262,6 +268,9 @@ return names;
         We should do (as wise programmers aware of our limitations) our utmost best to shorten the conceptual gap between the static program and the dynamic process, to \textbf{make the correspondence between the program (spread out in text space) and the process (spread out in time) as trivial as possible}.
     \end{quote}
     Edgar. J. Dijkstra, 1968
+\end{frame}
+\begin{frame}{Finally, virtual threads}
+    \includegraphics[width=\textwidth]{assets/threads_virtual_threads.png}
 \end{frame}
 
 \section{Integration}
