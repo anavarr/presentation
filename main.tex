@@ -25,7 +25,7 @@
   tabsize=3
 }
 
-\usetheme{focus}
+\usetheme[totalframenumbering=no,numbering=minimal]{focus}
 \definecolor{background}{RGB}{255, 255, 255}
 \setbeamerfont{title}{size=\LARGE}
 \setbeamerfont{author}{size=\large}
@@ -424,17 +424,6 @@ Fortune loomWithJdbc() {
 \begin{frame}{"Virtualizing" Netty event-loops}
     \includegraphics[width=\textwidth]{assets/vt_el.png}
 \end{frame}
-\begin{frame}{Deadlock situation}
-    \includegraphics[width=\textwidth]{assets/deadlock.png}
-\end{frame}
-\begin{frame}{Deadlock explanation}
-    \includegraphics[width=\textwidth]{assets/deadlock_situation.png}
-\end{frame}
-\begin{frame}{Deadlock: sharing locks}
-    \begin{alertblock}{Conclusion}
-        The event-loop can't reuse locks \emph{as a carrier}
-    \end{alertblock}
-\end{frame}
 \begin{frame}{Integration strategies summary}
     \input{integration_strategies_table.tex}
 \end{frame}
@@ -517,5 +506,22 @@ Fortune loomWithJdbc() {
     \begin{quote}
         The integration of virtual threads in frameworks built on top of Netty or that rely heavily on ThreadLocals, presuming a small thread count, is likely to experience significant garbage collection (GC) pressure.
     \end{quote}
+\end{frame}
+\begin{frame}{Summary}
+    
+\end{frame}
+
+
+
+\begin{frame}{Deadlock situation}
+    \includegraphics[width=\textwidth]{assets/deadlock.png}
+\end{frame}
+\begin{frame}{Deadlock explanation}
+    \includegraphics[width=\textwidth]{assets/deadlock_situation.png}
+\end{frame}
+\begin{frame}{Deadlock: sharing locks}
+    \begin{alertblock}{Conclusion}
+        The event-loop can't reuse locks \emph{as a carrier}
+    \end{alertblock}
 \end{frame}
 \end{document}
