@@ -1,13 +1,29 @@
-\frametitle{Code comparison - asynchronous callbacks}
-\begin{figure}
-        \begin{lstlisting}
-getAll( names => {
-    getQuotes(names.size(), quotes => {
-        for(int i=0; i < names.size();i ++){
-            names.get(i).surname+= ” - ”+quotes.get(i);
-        }
-        //continuation
-    })
-});
-        \end{lstlisting}
-    \end{figure}
+\frametitle{A quick overview of Quarkus}
+\begin{columns}
+        \begin{column}{0.55\textwidth}
+            \begin{figure}
+                \begin{lstlisting}
+@GET
+@Path("/reactive")
+Uni<Fortune> reactive() {
+    return repo
+        .findAllAsync()
+        .map(this::pickOne);
+}
+                \end{lstlisting}
+            \end{figure}
+        \end{column}
+        \begin{column}{0.55\textwidth}
+            \begin{figure}
+                \begin{lstlisting}
+@GET
+@Path("/virtual-threads")
+@RunOnVirtualThread
+Fortune loomWithJdbc() {
+    var list = repo.findAll();
+    return pickOne(list);
+}
+                \end{lstlisting}
+            \end{figure}
+        \end{column}
+    \end{columns}
