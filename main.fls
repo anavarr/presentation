@@ -701,9 +701,6 @@ INPUT ./assets/fancy_elements.png
 INPUT ./assets/fancy_elements.png
 INPUT ./main.toc
 INPUT ./main.toc
-INPUT ./assets/nano_baseline_19.0.1.png
-INPUT ./assets/nano_baseline_19.0.1.png
-INPUT ./assets/nano_baseline_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
 INPUT ./assets/nano_200_19.0.1.png
@@ -716,6 +713,9 @@ INPUT ./assets/deadlock.png
 INPUT ./assets/deadlock_situation.png
 INPUT ./assets/deadlock_situation.png
 INPUT ./assets/deadlock_situation.png
+INPUT ./assets/nano_baseline_19.0.1.png
+INPUT ./assets/nano_baseline_19.0.1.png
+INPUT ./assets/nano_baseline_19.0.1.png
 OUTPUT main.nav
 OUTPUT main.toc
 OUTPUT main.snm
