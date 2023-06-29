@@ -34,9 +34,14 @@
 %Information to be included in the title page:
 \title{
     Considerations for integrating virtual threads in a Java framework: a Quarkus example in a resource-constrained environment}
-\author[Navarro, Ponge, Le Mouël, Escoffier]{A.~Navarro\inst{1,2} \and J.~Ponge\inst{1,2}\and F.~Le~Mouël\inst{2}\and C.~Escoffier\inst{1}}
+\titlegraphic{
+    \includegraphics[width=1.5cm]{assets/red_Hat_logo.png}
+    \hspace{5mm}
+    \includegraphics[width=1.5cm]{assets/logo_citi.png}
+}
+\author[Navarro, Ponge, Le Mouël, Escoffier]{A.~Navarro\inst{1,2} \and J.~Ponge\inst{1,2}\\ \and F.~Le~Mouël\inst{2}\and C.~Escoffier\inst{1}}
 \institute{\inst{1}Red Hat  ~\inst{2}CITI Laboratory-INSA Lyon}
-\date{2023}
+\date[conf-name]{17th ACM International Conference on Distributed and Event-based Systems 2023}
 
 % \setbeamertemplate{sidebar right}{}
 % \setbeamertemplate{footline}{%
@@ -295,24 +300,24 @@
         \end{column}
     \end{columns}
 \end{frame}
-\begin{frame}{Non-blocking abstractions}
-    \begin{columns}
-        \begin{column}{0.5\textwidth}
-            \begin{itemize}
-                \item asynchronous callbacks
-                \item promises and futures
-                \item reactive streams
-            \end{itemize}
-        \end{column}
-        \begin{column}{0.5\textwidth}
-            \begin{itemize}
-                \item coroutines
-                \item async functions
-                \item light threads
-            \end{itemize}
-        \end{column}
-    \end{columns}
-\end{frame}
+% \begin{frame}{Non-blocking abstractions}
+%     \begin{columns}
+%         \begin{column}{0.5\textwidth}
+%             \begin{itemize}
+%                 \item asynchronous callbacks
+%                 \item promises and futures
+%                 \item reactive streams
+%             \end{itemize}
+%         \end{column}
+%         \begin{column}{0.5\textwidth}
+%             \begin{itemize}
+%                 \item coroutines
+%                 \item async functions
+%                 \item light threads
+%             \end{itemize}
+%         \end{column}
+%     \end{columns}
+% \end{frame}
 \begin{frame}[fragile]{Code comparison - blocking}
     \begin{figure}
         \begin{lstlisting}
@@ -363,7 +368,7 @@ return Uni.combine().all()
     \begin{quote}
         We should do (as wise programmers aware of our limitations) our utmost best to shorten the conceptual gap between the static program and the dynamic process, to \textbf{make the correspondence between the program (spread out in text space) and the process (spread out in time) as trivial as possible}.
     \end{quote}
-    Edgar. J. Dijkstra, 1968
+    \emph{Go To Statement considered harmful.} - Edgar. J. Dijkstra, 1968
 \end{frame}
 \begin{frame}[fragile]{Code comparison - virtual threads}
     \begin{figure}
@@ -413,7 +418,14 @@ Fortune loomWithJdbc() {
     \end{columns}
 \end{frame}
 \begin{frame}{Three integration strategies}
-    \input{integration_strategies_table.tex}
+    % \input{integration_strategies_table.tex}
+    \Large
+    Forking the worker model.\\
+    \vspace{1cm}
+    Using event-loops as carriers.\\
+    \vspace{1cm}
+    "Virtualizing" Netty event-loops.
+    \normalsize
 \end{frame}
 \begin{frame}{Forking the worker model}
     \includegraphics[width=\textwidth]{assets/forking_workers.png}

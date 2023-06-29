@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  29 JUN 2023 08:53
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  29 JUN 2023 09:19
  system commands enabled.
  file:line:error style messages enabled.
 **/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex
@@ -1800,34 +1800,34 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \focus@pbar@leftoffset=\skip68
 \focus@pbar@rightoffset=\skip69
 ))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 46.
- (./main.aux
 
-LaTeX Warning: Label `table:quarkusLoomComp' multiply defined.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 42.
 
-)
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 51.
+(./main.aux)
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1882,7 +1882,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/home/pink/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 46.
+Package hyperref Info: Link coloring OFF on input line 51.
  (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1900,65 +1900,75 @@ Dictionary: translator-theorem-dictionary, Language: English
  (/home/pink/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 46.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  TU/FiraMathRegular(1)/m/n --> TU/lmr/m/n on input line 46.
+(Font)                  TU/FiraMathRegular(1)/m/n --> TU/lmr/m/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 46.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 46.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/FiraSans(0)/m/n on input line 46.
+(Font)                  OT1/cmss/m/n --> TU/FiraSans(0)/m/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/FiraSans(0)/bx/n on input line 46.
+(Font)                  OT1/cmss/bx/n --> TU/FiraSans(0)/bx/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 46.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/bx/n on input line 46.
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/bx/n on input line 51.
  (./main.nav)
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 46.
+(Font)              scaled to size 6.0pt on input line 51.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 46.
+(Font)              scaled to size 8.0pt on input line 51.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 48.
+(Font)              scaled to size 17.28pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
-(Font)              scaled to size 17.28pt on input line 48.
+(Font)              scaled to size 17.28pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/sc' will be
-(Font)              scaled to size 17.28pt on input line 48.
+(Font)              scaled to size 17.28pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 48.
+(Font)              scaled to size 14.4pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 48.
+(Font)              scaled to size 14.4pt on input line 53.
+<assets/red_Hat_logo.png, id=13, 2569.6pt x 1954.30125pt>
+File: assets/red_Hat_logo.png Graphic file (type png)
+<use assets/red_Hat_logo.png>
+Package luatex.def Info: assets/red_Hat_logo.png  used on input line 53.
+(luatex.def)             Requested size: 42.67912pt x 32.44437pt.
+<assets/logo_citi.png, id=14, 24.09pt x 13.85175pt>
+File: assets/logo_citi.png Graphic file (type png)
+<use assets/logo_citi.png>
+Package luatex.def Info: assets/logo_citi.png  used on input line 53.
+(luatex.def)             Requested size: 42.67912pt x 24.54039pt.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 48.
+(Font)              scaled to size 8.0pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 48.
+(Font)              scaled to size 6.0pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 12.00128pt on input line 48.
+(Font)              scaled to size 12.00128pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 48.
+(Font)              scaled to size 8.00085pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 48.
+(Font)              scaled to size 6.00064pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 48.
+(Font)              scaled to size 11.99872pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 48.
+(Font)              scaled to size 7.99915pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 48.
+(Font)              scaled to size 5.99936pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 48.
+(Font)              scaled to size 8.0pt on input line 53.
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
-(Font)              scaled to size 4.0pt on input line 48.
+(Font)              scaled to size 4.0pt on input line 53.
  [1
 
-{/home/pink/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
+{/home/pink/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./assets/red_Hat_logo.png><./assets/logo_citi.png>] (./main.toc
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 1.
 ) [2
@@ -1967,7 +1977,7 @@ LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 109.
+(Font)              scaled to size 10.95pt on input line 114.
  [4
 
 ] [5
@@ -1979,13 +1989,13 @@ LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/it' will be
 ] [8
 
 ]
-Overfull \vbox (27.76022pt too high) detected at line 217
+Overfull \vbox (27.76022pt too high) detected at line 222
  []
 
 [9
 
 ]
-Overfull \vbox (27.76022pt too high) detected at line 279
+Overfull \vbox (27.76022pt too high) detected at line 284
  []
 
 [10
@@ -1993,120 +2003,81 @@ Overfull \vbox (27.76022pt too high) detected at line 279
 ] [11
 
 ]
-<assets/acceptor_system.png, id=82, 452.69125pt x 481.8pt>
+<assets/acceptor_system.png, id=86, 452.69125pt x 481.8pt>
 File: assets/acceptor_system.png Graphic file (type png)
 <use assets/acceptor_system.png>
-Package luatex.def Info: assets/acceptor_system.png  used on input line 297.
+Package luatex.def Info: assets/acceptor_system.png  used on input line 302.
 (luatex.def)             Requested size: 160.75812pt x 171.09532pt.
-<assets/event_queue.png, id=83, 504.88625pt x 414.54875pt>
+<assets/event_queue.png, id=87, 504.88625pt x 414.54875pt>
 File: assets/event_queue.png Graphic file (type png)
 <use assets/event_queue.png>
-Package luatex.def Info: assets/event_queue.png  used on input line 297.
+Package luatex.def Info: assets/event_queue.png  used on input line 302.
 (luatex.def)             Requested size: 160.75812pt x 131.99413pt.
  [12
 
-<./assets/acceptor_system.png><./assets/event_queue.png>] [13
-
-]
+<./assets/acceptor_system.png><./assets/event_queue.png>]
 \openout4 = main.vrb
  (./main.vrb
 LaTeX Font Info:    Font shape `TU/FiraMono(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 3.
-) [14
+) [13
+
+]
+\openout4 = main.vrb
+ (./main.vrb) [14
 
 ]
 \openout4 = main.vrb
  (./main.vrb) [15
 
 ]
-\openout4 = main.vrb
- (./main.vrb) [16
-
-]
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/it' will be
-(Font)              scaled to size 10.95pt on input line 367.
- [17
+(Font)              scaled to size 10.95pt on input line 372.
+ [16
 
 ]
 \openout4 = main.vrb
- (./main.vrb) [18
+ (./main.vrb) [17
 
 ]
-<assets/threads_virtual_threads.png, id=123, 1797.71625pt x 968.61874pt>
+<assets/threads_virtual_threads.png, id=122, 1797.71625pt x 968.61874pt>
 File: assets/threads_virtual_threads.png Graphic file (type png)
 <use assets/threads_virtual_threads.png>
-Package luatex.def Info: assets/threads_virtual_threads.png  used on input line 382.
+Package luatex.def Info: assets/threads_virtual_threads.png  used on input line 387.
 (luatex.def)             Requested size: 321.51625pt x 173.23535pt.
- [19
+ [18
 
-<./assets/threads_virtual_threads.png>] (./main.toc) [20
+<./assets/threads_virtual_threads.png>] (./main.toc) [19
 
 ]
 \openout4 = main.vrb
- (./main.vrb) [21
+ (./main.vrb) [20
 
-] (./integration_strategies_table.tex
-Underfull \hbox (badness 1112) in paragraph at lines 21--21
-[]|\TU/FiraSans(0)/m/n/8 Sim-ple, fits vir-tual threads
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]|\TU/FiraSans(0)/m/n/8 No context-switch, Fewer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]|\TU/FiraSans(0)/m/n/8 In-te-gra-tion done at the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\TU/FiraSans(0)/m/n/8 Netty level, Netty-based
- []
-
-
-Underfull \hbox (badness 6625) in paragraph at lines 21--21
-\TU/FiraSans(0)/m/n/8 frame-works would ben-e-fit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]|\TU/FiraSans(0)/m/n/8 Can’t mod-ify Netty up-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\TU/FiraSans(0)/m/n/8 stream, un-pre-dictable
- []
-
-LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 22.
-) [22
+] [21
 
 ]
-<assets/forking_workers.png, id=153, 966.61125pt x 330.23375pt>
+<assets/forking_workers.png, id=150, 966.61125pt x 330.23375pt>
 File: assets/forking_workers.png Graphic file (type png)
 <use assets/forking_workers.png>
-Package luatex.def Info: assets/forking_workers.png  used on input line 420.
+Package luatex.def Info: assets/forking_workers.png  used on input line 432.
 (luatex.def)             Requested size: 321.51625pt x 109.84416pt.
- [23
+ [22
 
 <./assets/forking_workers.png>]
-<assets/el_ct.png, id=160, 963.6pt x 314.17375pt>
+<assets/el_ct.png, id=158, 963.6pt x 314.17375pt>
 File: assets/el_ct.png Graphic file (type png)
 <use assets/el_ct.png>
-Package luatex.def Info: assets/el_ct.png  used on input line 423.
+Package luatex.def Info: assets/el_ct.png  used on input line 435.
 (luatex.def)             Requested size: 321.51625pt x 104.8234pt.
- [24
+ [23
 
 <./assets/el_ct.png>]
-<assets/vt_el.png, id=167, 1087.06125pt x 368.37625pt>
+<assets/vt_el.png, id=165, 1087.06125pt x 368.37625pt>
 File: assets/vt_el.png Graphic file (type png)
 <use assets/vt_el.png>
-Package luatex.def Info: assets/vt_el.png  used on input line 426.
+Package luatex.def Info: assets/vt_el.png  used on input line 438.
 (luatex.def)             Requested size: 321.51625pt x 108.9511pt.
- [25
+ [24
 
 <./assets/vt_el.png>] (./integration_strategies_table.tex
 Underfull \hbox (badness 1112) in paragraph at lines 21--21
@@ -2143,61 +2114,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--21
 \TU/FiraSans(0)/m/n/8 stream, un-pre-dictable
  []
 
-
-warning  (pdf backend): ignoring duplicate destination with the name 'table:quarkusLoomComp'
-) [26
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 22.
+) [25
 
 ]
 File: assets/forking_workers.png Graphic file (type png)
 <use assets/forking_workers.png>
-Package luatex.def Info: assets/forking_workers.png  used on input line 432.
+Package luatex.def Info: assets/forking_workers.png  used on input line 444.
 (luatex.def)             Requested size: 321.51625pt x 109.84416pt.
- [27
+ [26
 
-] (./main.toc) [28
+] (./main.toc) [27
 
 ]
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 443.
- [29
+(Font)              scaled to size 10.95pt on input line 455.
+ [28
 
-] [30
+] [29
 
 ]
-<assets/exp.png, id=204, 1171.37625pt x 324.21124pt>
+<assets/exp.png, id=203, 1171.37625pt x 324.21124pt>
 File: assets/exp.png Graphic file (type png)
 <use assets/exp.png>
-Package luatex.def Info: assets/exp.png  used on input line 473.
+Package luatex.def Info: assets/exp.png  used on input line 485.
 (luatex.def)             Requested size: 321.51625pt x 88.98769pt.
- [31
+ [30
 
-<./assets/exp.png>] (./main.toc) [32
+<./assets/exp.png>] (./main.toc) [31
 
 ]
-<assets/nano_baseline_19.0.1.png, id=222, 1094.1678pt x 594.7821pt>
+<assets/nano_baseline_19.0.1.png, id=221, 1094.1678pt x 594.7821pt>
 File: assets/nano_baseline_19.0.1.png Graphic file (type png)
 <use assets/nano_baseline_19.0.1.png>
-Package luatex.def Info: assets/nano_baseline_19.0.1.png  used on input line 478.
+Package luatex.def Info: assets/nano_baseline_19.0.1.png  used on input line 490.
 (luatex.def)             Requested size: 321.51625pt x 174.76945pt.
- [33
+ [32
 
 <./assets/nano_baseline_19.0.1.png>]
-<assets/nano_200_19.0.1.png, id=229, 1086.9408pt x 594.7821pt>
+<assets/nano_200_19.0.1.png, id=228, 1086.9408pt x 594.7821pt>
 File: assets/nano_200_19.0.1.png Graphic file (type png)
 <use assets/nano_200_19.0.1.png>
-Package luatex.def Info: assets/nano_200_19.0.1.png  used on input line 481.
+Package luatex.def Info: assets/nano_200_19.0.1.png  used on input line 493.
 (luatex.def)             Requested size: 321.51625pt x 175.93112pt.
- [34
+ [33
 
 <./assets/nano_200_19.0.1.png>]
-<assets/GC_measures.png, id=236, 968.61874pt x 693.59125pt>
+<assets/GC_measures.png, id=235, 968.61874pt x 693.59125pt>
 File: assets/GC_measures.png Graphic file (type png)
 <use assets/GC_measures.png>
-Package luatex.def Info: assets/GC_measures.png  used on input line 484.
+Package luatex.def Info: assets/GC_measures.png  used on input line 496.
 (luatex.def)             Requested size: 289.36266pt x 207.20056pt.
- [35
+ [34
 
-<./assets/GC_measures.png>] [36
+<./assets/GC_measures.png>] [35
+
+] [36
 
 ] [37
 
@@ -2205,25 +2178,23 @@ Package luatex.def Info: assets/GC_measures.png  used on input line 484.
 
 ] [39
 
-] [40
-
 ]
-<assets/deadlock.png, id=268, 901.3675pt x 416.55624pt>
+<assets/deadlock.png, id=267, 901.3675pt x 416.55624pt>
 File: assets/deadlock.png Graphic file (type png)
 <use assets/deadlock.png>
-Package luatex.def Info: assets/deadlock.png  used on input line 518.
+Package luatex.def Info: assets/deadlock.png  used on input line 530.
 (luatex.def)             Requested size: 321.51625pt x 148.5872pt.
- [41
+ [40
 
 <./assets/deadlock.png>]
-<assets/deadlock_situation.png, id=276, 773.89125pt x 177.66376pt>
+<assets/deadlock_situation.png, id=274, 773.89125pt x 177.66376pt>
 File: assets/deadlock_situation.png Graphic file (type png)
 <use assets/deadlock_situation.png>
-Package luatex.def Info: assets/deadlock_situation.png  used on input line 521.
+Package luatex.def Info: assets/deadlock_situation.png  used on input line 533.
 (luatex.def)             Requested size: 321.51625pt x 73.81041pt.
- [42
+ [41
 
-<./assets/deadlock_situation.png>] [43
+<./assets/deadlock_situation.png>] [42
 
 ]
 \tf@nav=\write5
@@ -2235,26 +2206,22 @@ Package luatex.def Info: assets/deadlock_situation.png  used on input line 521.
 \tf@snm=\write7
 
 \openout7 = main.snm
- (./main.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
-)
+ (./main.aux))
 
 Here is how much of LuaTeX's memory you used:
- 39550 strings out of 478278
+ 39564 strings out of 478278
  100000,1977958 words of node,token memory allocated
  2535 words of node memory still in use:
    30 hlist, 11 vlist, 7 rule, 6 disc, 3 local_par, 64 glue, 27 kern, 10 penalty, 76 glyph, 81 attribute, 64 glue_spec, 81 attribute_list, 4 write, 8 pdf_literal, 32 pdf_colorstack nodes
    avail lists: 2:1517,3:672,4:662,5:1355,6:148,7:4824,8:2,9:3580,10:11,11:135
- 57950 multiletter control sequences out of 65536+600000
- 141 fonts using 42414799 bytes
+ 57961 multiletter control sequences out of 65536+600000
+ 141 fonts using 42414691 bytes
  128i,17n,148p,488b,1097s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf>
-Output written on main.pdf (43 pages, 953355 bytes).
+Output written on main.pdf (42 pages, 1045462 bytes).
 
-PDF statistics: 340 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 92 named destinations out of 1000 (max. 131072)
+PDF statistics: 339 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
+ 90 named destinations out of 1000 (max. 131072)
  48 words of extra memory for PDF output out of 10000 (max. 100000000)
 
