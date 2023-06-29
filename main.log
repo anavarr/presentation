@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  28 JUN 2023 23:49
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  29 JUN 2023 08:53
  system commands enabled.
  file:line:error style messages enabled.
 **/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex
@@ -2248,10 +2248,10 @@ Here is how much of LuaTeX's memory you used:
    30 hlist, 11 vlist, 7 rule, 6 disc, 3 local_par, 64 glue, 27 kern, 10 penalty, 76 glyph, 81 attribute, 64 glue_spec, 81 attribute_list, 4 write, 8 pdf_literal, 32 pdf_colorstack nodes
    avail lists: 2:1517,3:672,4:662,5:1355,6:148,7:4824,8:2,9:3580,10:11,11:135
  57950 multiletter control sequences out of 65536+600000
- 141 fonts using 42414907 bytes
+ 141 fonts using 42414799 bytes
  128i,17n,148p,488b,1097s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf>
-Output written on main.pdf (43 pages, 953044 bytes).
+Output written on main.pdf (43 pages, 953355 bytes).
 
 PDF statistics: 340 PDF objects out of 1000 (max. 8388607)
  247 compressed objects within 3 object streams
