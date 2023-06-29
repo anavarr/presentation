@@ -625,6 +625,9 @@ INPUT ./assets/red_Hat_logo.png
 INPUT ./assets/logo_citi.png
 INPUT ./assets/logo_citi.png
 INPUT ./assets/logo_citi.png
+INPUT ./assets/logo_insa_lyon.png
+INPUT ./assets/logo_insa_lyon.png
+INPUT ./assets/logo_insa_lyon.png
 INPUT /home/pink/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /home/pink/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /home/pink/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm

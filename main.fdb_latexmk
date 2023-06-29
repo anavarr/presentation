@@ -1,6 +1,6 @@
 # Fdb version 4
-["lualatex"] 1688023168 "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" "main.pdf" "main" 1688023175 0
-  "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" 1688023162 18081 bff88f6a89689b2820deba444c2cd375 ""
+["lualatex"] 1688023536 "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" "main.pdf" "main" 1688023542 0
+  "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" 1688023535 18155 5efc6443489f189fbaf3ff354165f992 ""
   "/home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf" 1559682857 134144 0dbe9b0c7c283d9ade3352c00f2fc3db ""
   "/home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf" 1554498137 521796 b69f0518bb1ec66c91ae284749de268f ""
   "/home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf" 1554498137 536828 43217cb6ac9c3df24c0cb144deee64cf ""
@@ -330,17 +330,18 @@
   "assets/exp.png" 1680301484 43711 3b389abf3a182f623a1fbe0981910289 ""
   "assets/forking_workers.png" 1687960169 82804 4deff7ab3b0d7d91bef4b41e4fabc03d ""
   "assets/logo_citi.png" 1688022403 20483 b2f2364620f65da42932467f93db6a6e ""
+  "assets/logo_insa_lyon.png" 1688023446 16328 5ddf91e5862c6e187c851015e8b6afeb ""
   "assets/nano_200_19.0.1.png" 1687357628 213158 0eaab02e8dc0129a09808c6d400770a9 ""
   "assets/nano_baseline_19.0.1.png" 1687357662 202018 8dbdcd1cf401f83c6a718880712faab2 ""
   "assets/red_Hat_logo.png" 1688022148 85037 bf76e6efce722037fcb486324a3a1343 ""
   "assets/threads_virtual_threads.png" 1687936521 6929512 502e0905f2287eb8f7a89fc9a330043e ""
   "assets/vt_el.png" 1687960584 83476 f3f6f08f3216b23cb7ca1d3097d0cdb8 ""
   "integration_strategies_table.tex" 1687969356 884 028041e1e8e9ebabfaaaf0ce808d8b44 ""
-  "main.aux" 1688023174 8836 7aefcf3c61b09ac2e18a4384b246453a "lualatex"
-  "main.nav" 1688023174 4684 0cf3679bfc06e9a167c3b391a3bad7b4 "lualatex"
-  "main.tex" 1688023162 18081 bff88f6a89689b2820deba444c2cd375 ""
-  "main.toc" 1688023174 186 f09186887b55fe8d84490fde0124fec9 "lualatex"
-  "main.vrb" 1688023173 691 f34a4a5d84dd21ff278b30e43c90befc "lualatex"
+  "main.aux" 1688023541 8836 d079c443839f046b5f2ef1fa81c32b76 "lualatex"
+  "main.nav" 1688023541 4684 0cf3679bfc06e9a167c3b391a3bad7b4 "lualatex"
+  "main.tex" 1688023535 18155 5efc6443489f189fbaf3ff354165f992 ""
+  "main.toc" 1688023541 186 f09186887b55fe8d84490fde0124fec9 "lualatex"
+  "main.vrb" 1688023540 691 f34a4a5d84dd21ff278b30e43c90befc "lualatex"
   (generated)
   "main.aux"
   "main.log"
