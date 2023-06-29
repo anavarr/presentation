@@ -1,29 +1,16 @@
-\frametitle{A quick overview of Quarkus}
-\begin{columns}
-        \begin{column}{0.55\textwidth}
-            \begin{figure}
-                \begin{lstlisting}
+\frametitle{A quick overview of Quarkus-virtual-thread}
+\begin{figure}
+    \begin{lstlisting}
 @GET
-@Path("/reactive")
-Uni<Fortune> reactive() {
-    return repo
-        .findAllAsync()
-        .map(this::pickOne);
-}
-                \end{lstlisting}
-            \end{figure}
-        \end{column}
-        \begin{column}{0.55\textwidth}
-            \begin{figure}
-                \begin{lstlisting}
-@GET
-@Path("/virtual-threads")
+@Path("/named_quotes")
 @RunOnVirtualThread
-Fortune loomWithJdbc() {
-    var list = repo.findAll();
-    return pickOne(list);
+List<Name> myBetterEndpoint() {
+    var names = getAll();
+    var quotes = getQuotes(names.size());
+    for(int i=0; i < names.size();i ++){
+        names.get(i).surname+= ” - ”+quotes.get(i);
+    }
+    return names;
 }
-                \end{lstlisting}
-            \end{figure}
-        \end{column}
-    \end{columns}
+    \end{lstlisting}
+\end{figure}

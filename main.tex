@@ -93,21 +93,21 @@
         \begin{column}{0.53\textwidth}
             \begin{itemize}
                 \item \emph{\textcolor{red}{Difficult to maintain}}
-                \item Split in smaller entities 
+                \item[ ] Split in smaller entities 
                 \item \emph{\textcolor{red}{Dependency hell}}
-                \item Less dependencies per service
+                \item[ ] Less dependencies per service
                 \item \emph{\textcolor{red}{Reboot for every change}}
-                \item Reboot only impacted service
+                \item[ ] Reboot only impacted service
             \end{itemize}
         \end{column}
         \begin{column}{0.5\textwidth}
             \begin{itemize}
                 \item \emph{\textcolor{red}{Sub-optimal deployment}}
-                \item Per-service deployment
+                \item[ ] Per-service deployment
                 \item \emph{\textcolor{red}{Limits scalability}}
-                \item Scale each service
+                \item[ ] Scale each service
                 \item \emph{\textcolor{red}{Technology lock-in}}
-                \item Per-service technology
+                \item[ ] Per-service technology
             \end{itemize}
         \end{column}
     \end{columns}
@@ -392,34 +392,44 @@ return names;
 
 \section{Integration}
 \begin{frame}[fragile]{A quick overview of Quarkus}
-    \begin{columns}
-        \begin{column}{0.55\textwidth}
-            \begin{figure}
-                \begin{lstlisting}
+\begin{figure}
+    \begin{lstlisting}
 @GET
-@Path("/reactive")
-Uni<Fortune> reactive() {
-    return repo
-        .findAllAsync()
-        .map(this::pickOne);
+@Path("/named_quotes")
+Uni<List<Name>> myEndpoint() {
+    var names = getAll().memoize().indefinitely();
+    var quotes = names.onItem().transformToUni(list -> 
+            getQuotes(list.size()));
+    return Uni.combine().all()
+        .unis(names,quotes).asTuple()
+        .onItem().transform(tuple -> {
+            var nList=tuple.getItem1();
+            var qList = tuple.getItem2();
+            for(int i=0; i  < namesList.size();i ++){
+                nList.get(i).surname += "   -  "+qList.get(i);
+            }
+            return namesList;
+        });
 }
-                \end{lstlisting}
-            \end{figure}
-        \end{column}
-        \begin{column}{0.55\textwidth}
-            \begin{figure}
-                \begin{lstlisting}
+    \end{lstlisting}
+\end{figure}
+\end{frame}
+\begin{frame}[fragile]{A quick overview of Quarkus-virtual-thread}
+\begin{figure}
+    \begin{lstlisting}
 @GET
-@Path("/virtual-threads")
+@Path("/named_quotes")
 @RunOnVirtualThread
-Fortune loomWithJdbc() {
-    var list = repo.findAll();
-    return pickOne(list);
+List<Name> myBetterEndpoint() {
+    var names = getAll();
+    var quotes = getQuotes(names.size());
+    for(int i=0; i < names.size();i ++){
+        names.get(i).surname+= ” - ”+quotes.get(i);
+    }
+    return names;
 }
-                \end{lstlisting}
-            \end{figure}
-        \end{column}
-    \end{columns}
+    \end{lstlisting}
+\end{figure}
 \end{frame}
 \begin{frame}{Three integration strategies}
     % \input{integration_strategies_table.tex}

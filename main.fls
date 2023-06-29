@@ -666,6 +666,9 @@ INPUT ./main.toc
 OUTPUT main.vrb
 INPUT ./main.vrb
 INPUT ./main.vrb
+OUTPUT main.vrb
+INPUT ./main.vrb
+INPUT ./main.vrb
 INPUT ./assets/forking_workers.png
 INPUT ./assets/forking_workers.png
 INPUT ./assets/forking_workers.png
