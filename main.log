@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  29 JUN 2023 10:39
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  29 JUN 2023 11:20
  system commands enabled.
  file:line:error style messages enabled.
 **/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex
@@ -2083,27 +2083,27 @@ Overfull \vbox (24.29982pt too high) detected at line 422
 ] [24
 
 ]
-<assets/forking_workers.png, id=172, 966.61125pt x 330.23375pt>
+<assets/forking_workers.png, id=172, 1795.70876pt x 597.23125pt>
 File: assets/forking_workers.png Graphic file (type png)
 <use assets/forking_workers.png>
 Package luatex.def Info: assets/forking_workers.png  used on input line 452.
-(luatex.def)             Requested size: 321.51625pt x 109.84416pt.
+(luatex.def)             Requested size: 321.51625pt x 106.93198pt.
  [25
 
 <./assets/forking_workers.png>]
-<assets/el_ct.png, id=179, 963.6pt x 314.17375pt>
+<assets/el_ct.png, id=179, 1795.70876pt x 566.115pt>
 File: assets/el_ct.png Graphic file (type png)
 <use assets/el_ct.png>
 Package luatex.def Info: assets/el_ct.png  used on input line 455.
-(luatex.def)             Requested size: 321.51625pt x 104.8234pt.
+(luatex.def)             Requested size: 321.51625pt x 101.36073pt.
  [26
 
 <./assets/el_ct.png>]
-<assets/vt_el.png, id=186, 1087.06125pt x 368.37625pt>
+<assets/vt_el.png, id=186, 1813.77625pt x 648.4225pt>
 File: assets/vt_el.png Graphic file (type png)
 <use assets/vt_el.png>
 Package luatex.def Info: assets/vt_el.png  used on input line 458.
-(luatex.def)             Requested size: 321.51625pt x 108.9511pt.
+(luatex.def)             Requested size: 321.51625pt x 114.93996pt.
  [27
 
 <./assets/vt_el.png>] (./integration_strategies_table.tex
@@ -2149,7 +2149,7 @@ LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
 File: assets/forking_workers.png Graphic file (type png)
 <use assets/forking_workers.png>
 Package luatex.def Info: assets/forking_workers.png  used on input line 464.
-(luatex.def)             Requested size: 321.51625pt x 109.84416pt.
+(luatex.def)             Requested size: 321.51625pt x 106.93198pt.
  [29
 
 ] (./main.toc) [30
@@ -2240,10 +2240,10 @@ Here is how much of LuaTeX's memory you used:
    26 hlist, 8 vlist, 6 rule, 3 disc, 2 local_par, 36 glue, 13 kern, 9 penalty, 23 glyph, 51 attribute, 64 glue_spec, 51 attribute_list, 4 write, 16 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
    avail lists: 2:1625,3:678,4:678,5:1369,6:149,7:4959,8:2,9:3588,10:11,11:138
  57979 multiletter control sequences out of 65536+600000
- 142 fonts using 42876995 bytes
+ 142 fonts using 42876671 bytes
  128i,17n,148p,488b,910s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf>
-Output written on main.pdf (44 pages, 1238022 bytes).
+Output written on main.pdf (44 pages, 1469744 bytes).
 
 PDF statistics: 355 PDF objects out of 1000 (max. 8388607)
  251 compressed objects within 3 object streams
