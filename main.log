@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  29 JUN 2023 10:33
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.4.1)  29 JUN 2023 10:39
  system commands enabled.
  file:line:error style messages enabled.
 **/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex
@@ -2195,33 +2195,31 @@ Package luatex.def Info: assets/GC_measures.png  used on input line 513.
 
 ] [40
 
-] [41
-
 ]
-<assets/deadlock.png, id=282, 901.3675pt x 416.55624pt>
+<assets/deadlock.png, id=276, 901.3675pt x 416.55624pt>
 File: assets/deadlock.png Graphic file (type png)
 <use assets/deadlock.png>
-Package luatex.def Info: assets/deadlock.png  used on input line 547.
+Package luatex.def Info: assets/deadlock.png  used on input line 545.
 (luatex.def)             Requested size: 321.51625pt x 148.5872pt.
- [42
+ [41
 
 <./assets/deadlock.png>]
-<assets/deadlock_situation.png, id=289, 773.89125pt x 177.66376pt>
+<assets/deadlock_situation.png, id=284, 773.89125pt x 177.66376pt>
 File: assets/deadlock_situation.png Graphic file (type png)
 <use assets/deadlock_situation.png>
-Package luatex.def Info: assets/deadlock_situation.png  used on input line 550.
+Package luatex.def Info: assets/deadlock_situation.png  used on input line 548.
 (luatex.def)             Requested size: 321.51625pt x 73.81041pt.
- [43
+ [42
 
-<./assets/deadlock_situation.png>] [44
+<./assets/deadlock_situation.png>] [43
 
 ]
-<assets/nano_baseline_19.0.1.png, id=302, 1094.1678pt x 594.7821pt>
+<assets/nano_baseline_19.0.1.png, id=296, 1094.1678pt x 594.7821pt>
 File: assets/nano_baseline_19.0.1.png Graphic file (type png)
 <use assets/nano_baseline_19.0.1.png>
-Package luatex.def Info: assets/nano_baseline_19.0.1.png  used on input line 558.
+Package luatex.def Info: assets/nano_baseline_19.0.1.png  used on input line 556.
 (luatex.def)             Requested size: 321.51625pt x 174.76945pt.
- [45
+ [44
 
 <./assets/nano_baseline_19.0.1.png>]
 \tf@nav=\write5
@@ -2236,19 +2234,19 @@ Package luatex.def Info: assets/nano_baseline_19.0.1.png  used on input line 558
  (./main.aux))
 
 Here is how much of LuaTeX's memory you used:
- 39617 strings out of 478278
+ 39613 strings out of 478278
  100000,1977958 words of node,token memory allocated
  1585 words of node memory still in use:
    26 hlist, 8 vlist, 6 rule, 3 disc, 2 local_par, 36 glue, 13 kern, 9 penalty, 23 glyph, 51 attribute, 64 glue_spec, 51 attribute_list, 4 write, 16 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
    avail lists: 2:1625,3:678,4:678,5:1369,6:149,7:4959,8:2,9:3588,10:11,11:138
- 57981 multiletter control sequences out of 65536+600000
- 142 fonts using 42877103 bytes
+ 57979 multiletter control sequences out of 65536+600000
+ 142 fonts using 42876995 bytes
  128i,17n,148p,488b,910s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf>
-Output written on main.pdf (45 pages, 1238376 bytes).
+Output written on main.pdf (44 pages, 1238022 bytes).
 
-PDF statistics: 360 PDF objects out of 1000 (max. 8388607)
- 255 compressed objects within 3 object streams
- 96 named destinations out of 1000 (max. 131072)
+PDF statistics: 355 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 94 named destinations out of 1000 (max. 131072)
  48 words of extra memory for PDF output out of 10000 (max. 100000000)
 
