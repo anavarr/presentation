@@ -640,6 +640,12 @@ INPUT /home/pink/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /home/pink/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./main.toc
 INPUT ./main.toc
+INPUT ./assets/wide_monolith.png
+INPUT ./assets/wide_monolith.png
+INPUT ./assets/wide_monolith.png
+INPUT ./assets/mservices.png
+INPUT ./assets/mservices.png
+INPUT ./assets/mservices.png
 INPUT ./assets/acceptor_system.png
 INPUT ./assets/acceptor_system.png
 INPUT ./assets/acceptor_system.png
@@ -690,9 +696,9 @@ INPUT ./assets/forking_workers.png
 INPUT ./assets/forking_workers.png
 INPUT ./main.toc
 INPUT ./main.toc
-INPUT ./assets/exp.png
-INPUT ./assets/exp.png
-INPUT ./assets/exp.png
+INPUT ./assets/fancy_elements.png
+INPUT ./assets/fancy_elements.png
+INPUT ./assets/fancy_elements.png
 INPUT ./main.toc
 INPUT ./main.toc
 INPUT ./assets/nano_baseline_19.0.1.png
