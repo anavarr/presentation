@@ -1,6 +1,6 @@
 # Fdb version 4
-["lualatex"] 1688032375 "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" "main.pdf" "main" 1688032387 0
-  "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" 1688032375 18855 68cfa8a271433f8d1d41d21d2cc63afc ""
+["lualatex"] 1688032402 "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" "main.pdf" "main" 1688032414 0
+  "/home/pink/Documents/thesis/papers/quarkus-loom-presentation/main.tex" 1688032402 18858 baf10f4afb44b2aa47e6e35bab111a45 ""
   "/home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf" 1559682857 134144 0dbe9b0c7c283d9ade3352c00f2fc3db ""
   "/home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf" 1554498137 521796 b69f0518bb1ec66c91ae284749de268f ""
   "/home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf" 1554498137 536828 43217cb6ac9c3df24c0cb144deee64cf ""
@@ -339,11 +339,11 @@
   "assets/vt_el.png" 1688030400 117395 d062ab98fadba76f3f40f1384ad5eded ""
   "assets/wide_monolith.png" 1688025635 57658 b66015459fa6f7caca6916713e97f3df ""
   "integration_strategies_table.tex" 1687969356 884 028041e1e8e9ebabfaaaf0ce808d8b44 ""
-  "main.aux" 1688032386 9093 a507a68c5f4ec9f1e6567051e9c51838 "lualatex"
-  "main.nav" 1688032386 4869 489089cc490b991dd626d1208149e365 "lualatex"
-  "main.tex" 1688032375 18855 68cfa8a271433f8d1d41d21d2cc63afc ""
-  "main.toc" 1688032386 186 54734231790231bfe4818b663c08fd4a "lualatex"
-  "main.vrb" 1688032383 399 9ad7f137b8c7c9db0b86ae0788e557b4 "lualatex"
+  "main.aux" 1688032413 9093 a507a68c5f4ec9f1e6567051e9c51838 "lualatex"
+  "main.nav" 1688032413 4869 489089cc490b991dd626d1208149e365 "lualatex"
+  "main.tex" 1688032402 18858 baf10f4afb44b2aa47e6e35bab111a45 ""
+  "main.toc" 1688032413 186 54734231790231bfe4818b663c08fd4a "lualatex"
+  "main.vrb" 1688032411 399 9ad7f137b8c7c9db0b86ae0788e557b4 "lualatex"
   (generated)
   "main.aux"
   "main.log"

@@ -921,4 +921,1332 @@ Package fontspec Info: Font family 'FiraSans(7)' created for font 'FiraSans'
 (fontspec)             <->s*[1]"[FiraSans-UltraLight.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->s*[1]"[FiraSans-UltraLight.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
-(fontspec)             - 'bold' (b/n) wit
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-UltraLightItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-UltraLightItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+
+Package fontspec Info: Font family 'FiraSans(8)' created for font 'FiraSans'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Medium,ItalicFont = *-MediumItalic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Medium.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Medium.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-MediumItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-MediumItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+
+Package fontspec Info: Font family 'FiraSans(9)' created for font 'FiraSans'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Book,ItalicFont = *-BookItalic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Book.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Book.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BookItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BookItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-BoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+
+Package fontspec Info: Font family 'FiraSans(10)' created for font 'FiraSans'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-SemiBold,ItalicFont = *-SemiBoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-SemiBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-SemiBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-SemiBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-SemiBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+
+Package fontspec Info: Font family 'FiraSans(11)' created for font 'FiraSans'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-ExtraBold,ItalicFont = *-ExtraBoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-ExtraBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-ExtraBold.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-ExtraBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-ExtraBoldItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+
+Package fontspec Info: Font family 'FiraSans(12)' created for font 'FiraSans'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Heavy,ItalicFont = *-HeavyItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Heavy.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-Heavy.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-HeavyItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraSans-HeavyItalic.otf]:mode=node;script=latn;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/fira/FiraMono.sty
+Package: FiraMono 2022/09/17 (Bob Tennent and autoinst) Style file for Fira Mono fonts.
+luaotfload | aux : font no 64 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 65 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 66 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 67 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'FiraMono(0)' created for font 'FiraMono'
+(fontspec)             with options [Ligatures = TeX,HyphenChar=None,Scale =
+(fontspec)             1,Extension =
+(fontspec)             .otf,WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Numbers
+(fontspec)             = {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Oblique,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldOblique].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Oblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-BoldOblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+luaotfload | aux : font no 64 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 65 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 66 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 67 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'FiraMono(1)' created for font 'FiraMono'
+(fontspec)             with options [Ligatures = TeX,HyphenChar=None,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Oblique,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldOblique].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Oblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-BoldOblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+luaotfload | aux : font no 64 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 65 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 66 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 67 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'FiraMono(2)' created for font 'FiraMono'
+(fontspec)             with options [Ligatures = TeX,HyphenChar=None,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Monospaced,Tabular},UprightFont = *-Regular,ItalicFont
+(fontspec)             = *-Oblique,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldOblique].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Regular.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Oblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-BoldOblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+luaotfload | aux : font no 70 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 65 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 66 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 67 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'FiraMono(3)' created for font 'FiraMono'
+(fontspec)             with options [Ligatures = TeX,HyphenChar=None,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Monospaced,OldStyle},UprightFont = *-Medium,ItalicFont
+(fontspec)             = *-Oblique,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldOblique].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Medium.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Bold.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-Oblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[FiraMono-BoldOblique.otf]:mode=node;script=latn;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/firamath-otf/firamath-otf.sty
+Package: firamath-otf 2023/01/16 v. 0.03a (Herbert Voss) Supports fira math fonts for all luatex/xetex .
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty
+Package: unicode-math-luatex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/home/pink/texlive/2023/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
+Package: lualatex-math 2022/01/01 v1.12 Patches for mathematics typesetting with LuaLaTeX
+Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting with LuaLaTeX)
+\g__um_fam_int=\count372
+\g__um_fonts_used_int=\count373
+\l__um_primecount_int=\count374
+\g__um_primekern_muskip=\muskip18
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+luaotfload | cache : Lookup cache loaded from /home/pink/texlive/2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 72 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 72 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Font family 'FiraMathRegular(0)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Scale={1},Numbers={Lining,Monospaced}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 80.
+luaotfload | aux : font no 72 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 72 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Font family 'FiraMathRegular(1)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.417-},{Size=7.1175-9.417,Font=Fira
+(fontspec)             Math Regular,Style=MathScript},{Size=-7.1175,Font=Fira
+(fontspec)             Math
+(fontspec)             Regular,Style=MathScriptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Scale={1},Numbers={Lining,Monospaced}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.417->s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;"<7.1175-9.417>s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;+ssty=0;"<-7.1175>s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 80.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 80.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/FiraMathRegular(1)/m/n on input line 80.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 80.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/FiraMathRegular(1)/b/n on input line 80.
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+luaotfload | aux : font no 72 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 72 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Font family 'FiraMathRegular(2)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.417-},{Size=7.1175-9.417,Font=Fira
+(fontspec)             Math Regular,Style=MathScript},{Size=-7.1175,Font=Fira
+(fontspec)             Math
+(fontspec)             Regular,Style=MathScriptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Scale={1},Numbers={Lining,Monospaced},ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             8\font =6.351pt\relax \fontdimen 9\font
+(fontspec)             =4.92749pt\relax \fontdimen 10\font =4.92749pt\relax
+(fontspec)             \fontdimen 11\font =7.665pt\relax \fontdimen 12\font
+(fontspec)             =5.256pt\relax \fontdimen 13\font =4.37999pt\relax
+(fontspec)             \fontdimen 14\font =4.37999pt\relax \fontdimen 15\font
+(fontspec)             =2.9565pt\relax \fontdimen 16\font =3.83249pt\relax
+(fontspec)             \fontdimen 17\font =3.83249pt\relax \fontdimen 18\font
+(fontspec)             =3.94199pt\relax \fontdimen 19\font =2.73749pt\relax
+(fontspec)             \fontdimen 22\font =3.066pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.417->s*[1.0001]"FiraMathRegular:mode=base;script=math;language=dflt;"<7.1175-9.417>s*[1.0001]"FiraMathRegular:mode=base;script=math;language=dflt;+ssty=0;"<-7.1175>s*[1.0001]"FiraMathRegular:mode=base;script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =6.351pt\relax \fontdimen 9\font =4.92749pt\relax
+(fontspec)             \fontdimen 10\font =4.92749pt\relax \fontdimen 11\font
+(fontspec)             =7.665pt\relax \fontdimen 12\font =5.256pt\relax
+(fontspec)             \fontdimen 13\font =4.37999pt\relax \fontdimen 14\font
+(fontspec)             =4.37999pt\relax \fontdimen 15\font =2.9565pt\relax
+(fontspec)             \fontdimen 16\font =3.83249pt\relax \fontdimen 17\font
+(fontspec)             =3.83249pt\relax \fontdimen 18\font =3.94199pt\relax
+(fontspec)             \fontdimen 19\font =2.73749pt\relax \fontdimen 22\font
+(fontspec)             =3.066pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 80.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/FiraMathRegular(2)/m/n on input line 80.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 80.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/FiraMathRegular(2)/b/n on input line 80.
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+luaotfload | aux : font no 72 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 72 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+luaotfload | aux : font no 74 (nil) does not define feature lnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (lnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+luaotfload | aux : font no 74 (nil) does not define feature tnum for script math with language dflt
+
+Package fontspec Warning: OpenType feature 'Numbers=Uppercase' (tnum) not
+(fontspec)                available for font 'FiraMathRegular' with script
+(fontspec)                'Math' and language 'Default'.
+
+
+Package fontspec Info: Font family 'FiraMathRegular(3)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.417-},{Size=7.1175-9.417,Font=Fira
+(fontspec)             Math Regular,Style=MathScript},{Size=-7.1175,Font=Fira
+(fontspec)             Math
+(fontspec)             Regular,Style=MathScriptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Scale={1},Numbers={Lining,Monospaced},ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             8\font =0.8322pt\relax \fontdimen 9\font
+(fontspec)             =1.64249pt\relax \fontdimen 10\font =1.64249pt\relax
+(fontspec)             \fontdimen 11\font =1.64249pt\relax \fontdimen 12\font
+(fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.417->s*[0.9999]"FiraMathRegular:mode=base;script=math;language=dflt;"<7.1175-9.417>s*[0.9999]"FiraMathRegular:mode=base;script=math;language=dflt;+ssty=0;"<-7.1175>s*[0.9999]"FiraMathRegular:mode=base;script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =0.8322pt\relax \fontdimen 9\font =1.64249pt\relax
+(fontspec)             \fontdimen 10\font =1.64249pt\relax \fontdimen 11\font
+(fontspec)             =1.64249pt\relax \fontdimen 12\font =6.56999pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 80.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/FiraMathRegular(3)/m/n on input line 80.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 80.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/FiraMathRegular(3)/b/n on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
+(Font)              scaled to size 7.884pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
+(Font)              scaled to size 6.351pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 10.95116pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 7.88484pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 6.35167pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 7.88315pt on input line 80.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 6.35031pt on input line 80.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
+(/home/pink/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c@mv@pnum=\count375
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FiraMathRegular(4)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Numbers={Proportional},Scale={1}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(4)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 82.
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FiraMathRegular(5)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.417-},{Size=7.1175-9.417,Font=Fira
+(fontspec)             Math Regular,Style=MathScript},{Size=-7.1175,Font=Fira
+(fontspec)             Math
+(fontspec)             Regular,Style=MathScriptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Numbers={Proportional},Scale={1}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.417->s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;"<7.1175-9.417>s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;+ssty=0;"<-7.1175>s*[1]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: 
+
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(5)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 82.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `pnum' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `pnum'
+(Font)                  OT1/cmr/m/n --> TU/FiraMathRegular(5)/m/n on input line 82.
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+
+Package fontspec Info: FiraMathRegular scale = 1.0001.
+
+
+Package fontspec Info: Font family 'FiraMathRegular(6)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.417-},{Size=7.1175-9.417,Font=Fira
+(fontspec)             Math Regular,Style=MathScript},{Size=-7.1175,Font=Fira
+(fontspec)             Math
+(fontspec)             Regular,Style=MathScriptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Numbers={Proportional},Scale={1},ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             8\font =6.351pt\relax \fontdimen 9\font
+(fontspec)             =4.92749pt\relax \fontdimen 10\font =4.92749pt\relax
+(fontspec)             \fontdimen 11\font =7.665pt\relax \fontdimen 12\font
+(fontspec)             =5.256pt\relax \fontdimen 13\font =4.37999pt\relax
+(fontspec)             \fontdimen 14\font =4.37999pt\relax \fontdimen 15\font
+(fontspec)             =2.9565pt\relax \fontdimen 16\font =3.83249pt\relax
+(fontspec)             \fontdimen 17\font =3.83249pt\relax \fontdimen 18\font
+(fontspec)             =3.94199pt\relax \fontdimen 19\font =2.73749pt\relax
+(fontspec)             \fontdimen 22\font =3.066pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.417->s*[1.0001]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;"<7.1175-9.417>s*[1.0001]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;+ssty=0;"<-7.1175>s*[1.0001]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =6.351pt\relax \fontdimen 9\font =4.92749pt\relax
+(fontspec)             \fontdimen 10\font =4.92749pt\relax \fontdimen 11\font
+(fontspec)             =7.665pt\relax \fontdimen 12\font =5.256pt\relax
+(fontspec)             \fontdimen 13\font =4.37999pt\relax \fontdimen 14\font
+(fontspec)             =4.37999pt\relax \fontdimen 15\font =2.9565pt\relax
+(fontspec)             \fontdimen 16\font =3.83249pt\relax \fontdimen 17\font
+(fontspec)             =3.83249pt\relax \fontdimen 18\font =3.94199pt\relax
+(fontspec)             \fontdimen 19\font =2.73749pt\relax \fontdimen 22\font
+(fontspec)             =3.066pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `pnum' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `pnum'
+(Font)                  OMS/cmsy/m/n --> TU/FiraMathRegular(6)/m/n on input line 82.
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+
+Package fontspec Info: Could not resolve font "FiraMathRegular/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+
+Package fontspec Info: FiraMathRegular scale = 0.9999.
+
+
+Package fontspec Info: Font family 'FiraMathRegular(7)' created for font 'Fira
+(fontspec)             Math Regular' with options
+(fontspec)             [Renderer=Basic,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.417-},{Size=7.1175-9.417,Font=Fira
+(fontspec)             Math Regular,Style=MathScript},{Size=-7.1175,Font=Fira
+(fontspec)             Math
+(fontspec)             Regular,Style=MathScriptScript}},FontAdjustment={\__um_luatex_copy_fontdimens:
+(fontspec)             },Numbers={Proportional},Scale={1},ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             8\font =0.8322pt\relax \fontdimen 9\font
+(fontspec)             =1.64249pt\relax \fontdimen 10\font =1.64249pt\relax
+(fontspec)             \fontdimen 11\font =1.64249pt\relax \fontdimen 12\font
+(fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.417->s*[0.9999]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;"<7.1175-9.417>s*[0.9999]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;+ssty=0;"<-7.1175>s*[0.9999]"FiraMathRegular:mode=base;script=math;language=dflt;+pnum;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \__um_luatex_copy_fontdimens: \fontdimen 8\font
+(fontspec)             =0.8322pt\relax \fontdimen 9\font =1.64249pt\relax
+(fontspec)             \fontdimen 10\font =1.64249pt\relax \fontdimen 11\font
+(fontspec)             =1.64249pt\relax \fontdimen 12\font =6.56999pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `pnum' on input line 82.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `pnum'
+(Font)                  OMX/cmex/m/n --> TU/FiraMathRegular(7)/m/n on input line 82.
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/beamertheme-focus/beamercolorthemefocus.sty) (/home/pink/texlive/2023/texmf-dist/tex/latex/beamertheme-focus/beamerfontthemefocus.sty) (/home/pink/texlive/2023/texmf-dist/tex/latex/beamertheme-focus/beamerinnerthemefocus.sty (/home/pink/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/home/pink/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/home/pink/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box89
+) (/home/pink/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen326
+\pgf@nodesepend=\dimen327
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/home/pink/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/home/pink/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen328
+\pgffor@skip=\dimen329
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
+)) (/home/pink/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/home/pink/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count376
+\pgfplotmarksize=\dimen330
+)
+\tikz@lastx=\dimen331
+\tikz@lasty=\dimen332
+\tikz@lastxsaved=\dimen333
+\tikz@lastysaved=\dimen334
+\tikz@lastmovetox=\dimen335
+\tikz@lastmovetoy=\dimen336
+\tikzleveldistance=\dimen337
+\tikzsiblingdistance=\dimen338
+\tikz@figbox=\box90
+\tikz@figbox@bg=\box91
+\tikz@tempbox=\box92
+\tikz@tempbox@bg=\box93
+\tikztreelevel=\count377
+\tikznumberofchildren=\count378
+\tikznumberofcurrentchild=\count379
+\tikz@fig@count=\count380
+ (/home/pink/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count381
+\pgfmatrixcurrentcolumn=\count382
+\pgf@matrix@numberofcolumns=\count383
+)
+\tikz@expandcount=\count384
+ (/home/pink/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))) (/home/pink/texlive/2023/texmf-dist/tex/latex/beamertheme-focus/beamerouterthemefocus.sty (/home/pink/texlive/2023/texmf-dist/tex/latex/appendixnumberbeamer/appendixnumberbeamer.sty) (/home/pink/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count385
+))
+\c@realframenumber=\count386
+\focus@pbar@height=\skip67
+\focus@pbar@leftoffset=\skip68
+\focus@pbar@rightoffset=\skip69
+))
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 55.
+ (./main.aux)
+\openout1 = main.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(21.33955pt, 321.51625pt, 21.33955pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=321.51625pt
+* \textheight=244.6939pt
+* \oddsidemargin=-50.93044pt
+* \evensidemargin=-50.93044pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/home/pink/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count387
+\scratchdimen=\dimen339
+\scratchbox=\box94
+\nofMPsegments=\count388
+\nofMParguments=\count389
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count390
+\MPscratchDim=\dimen340
+\MPnumerator=\count391
+\makeMPintoPDFobject=\count392
+\everyMPtoPDFconversion=\toks55
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 55.
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (/home/pink/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@lstlisting=\count393
+ (/home/pink/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 55.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  TU/FiraMathRegular(1)/m/n --> TU/lmr/m/n on input line 55.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 55.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 55.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/FiraSans(0)/m/n on input line 55.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/FiraSans(0)/bx/n on input line 55.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/m/n on input line 55.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/FiraMono(0)/bx/n on input line 55.
+ (./main.nav)
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 55.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 55.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
+(Font)              scaled to size 17.28pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/sc' will be
+(Font)              scaled to size 17.28pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 57.
+<assets/red_Hat_logo.png, id=13, 2569.6pt x 1954.30125pt>
+File: assets/red_Hat_logo.png Graphic file (type png)
+<use assets/red_Hat_logo.png>
+Package luatex.def Info: assets/red_Hat_logo.png  used on input line 57.
+(luatex.def)             Requested size: 36.98866pt x 28.12044pt.
+<assets/logo_citi.png, id=14, 24.09pt x 13.85175pt>
+File: assets/logo_citi.png Graphic file (type png)
+<use assets/logo_citi.png>
+Package luatex.def Info: assets/logo_citi.png  used on input line 57.
+(luatex.def)             Requested size: 42.67912pt x 24.54039pt.
+<assets/logo_insa_lyon.png, id=15, 244.5135pt x 125.268pt>
+File: assets/logo_insa_lyon.png Graphic file (type png)
+<use assets/logo_insa_lyon.png>
+Package luatex.def Info: assets/logo_insa_lyon.png  used on input line 57.
+(luatex.def)             Requested size: 42.67912pt x 21.86488pt.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 12.00128pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 8.00085pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/sc' will be
+(Font)              scaled to size 8.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/scit' will be
+(Font)              scaled to size 12.0pt on input line 57.
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
+(Font)              scaled to size 4.0pt on input line 57.
+ [1
+
+{/home/pink/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./assets/red_Hat_logo.png><./assets/logo_citi.png><./assets/logo_insa_lyon.png>] (./main.toc
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+) [2
+
+]
+<assets/wide_monolith.png, id=42, 1300.86pt x 764.8575pt>
+File: assets/wide_monolith.png Graphic file (type png)
+<use assets/wide_monolith.png>
+Package luatex.def Info: assets/wide_monolith.png  used on input line 71.
+(luatex.def)             Requested size: 321.51625pt x 189.03146pt.
+ [3
+
+<./assets/wide_monolith.png>] [4
+
+]
+<assets/mservices.png, id=54, 1048.91875pt x 703.62875pt>
+File: assets/mservices.png Graphic file (type png)
+<use assets/mservices.png>
+Package luatex.def Info: assets/mservices.png  used on input line 96.
+(luatex.def)             Requested size: 321.51625pt x 215.67473pt.
+ [5
+
+<./assets/mservices.png>]
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 124.
+ [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+]
+Overfull \vbox (27.76022pt too high) detected at line 232
+ []
+
+[11
+
+]
+Overfull \vbox (27.76022pt too high) detected at line 294
+ []
+
+[12
+
+] [13
+
+]
+<assets/blocking.png, id=102, 951.555pt x 932.48375pt>
+File: assets/blocking.png Graphic file (type png)
+<use assets/blocking.png>
+Package luatex.def Info: assets/blocking.png  used on input line 312.
+(luatex.def)             Requested size: 160.75812pt x 157.52414pt.
+<assets/nonblocking.png, id=103, 1176.395pt x 969.6225pt>
+File: assets/nonblocking.png Graphic file (type png)
+<use assets/nonblocking.png>
+Package luatex.def Info: assets/nonblocking.png  used on input line 312.
+(luatex.def)             Requested size: 160.75812pt x 132.49127pt.
+ [14
+
+<./assets/blocking.png><./assets/nonblocking.png>]
+\openout4 = main.vrb
+ (./main.vrb
+LaTeX Font Info:    Font shape `TU/FiraMono(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 3.
+) [15
+
+]
+\openout4 = main.vrb
+ (./main.vrb) [16
+
+]
+\openout4 = main.vrb
+ (./main.vrb) [17
+
+]
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/it' will be
+(Font)              scaled to size 10.95pt on input line 382.
+ [18
+
+]
+\openout4 = main.vrb
+ (./main.vrb) [19
+
+]
+<assets/threads_virtual_threads.png, id=138, 1797.71625pt x 968.61874pt>
+File: assets/threads_virtual_threads.png Graphic file (type png)
+<use assets/threads_virtual_threads.png>
+Package luatex.def Info: assets/threads_virtual_threads.png  used on input line 397.
+(luatex.def)             Requested size: 321.51625pt x 173.23535pt.
+ [20
+
+<./assets/threads_virtual_threads.png>] (./main.toc) [21
+
+]
+\openout4 = main.vrb
+ (./main.vrb)
+Overfull \vbox (24.29982pt too high) detected at line 422
+ []
+
+[22
+
+]
+\openout4 = main.vrb
+ (./main.vrb) [23
+
+] [24
+
+]
+<assets/forking_workers.png, id=172, 1795.70876pt x 597.23125pt>
+File: assets/forking_workers.png Graphic file (type png)
+<use assets/forking_workers.png>
+Package luatex.def Info: assets/forking_workers.png  used on input line 452.
+(luatex.def)             Requested size: 321.51625pt x 106.93198pt.
+ [25
+
+<./assets/forking_workers.png>]
+<assets/el_ct.png, id=179, 1795.70876pt x 566.115pt>
+File: assets/el_ct.png Graphic file (type png)
+<use assets/el_ct.png>
+Package luatex.def Info: assets/el_ct.png  used on input line 455.
+(luatex.def)             Requested size: 321.51625pt x 101.36073pt.
+ [26
+
+<./assets/el_ct.png>]
+<assets/vt_el.png, id=186, 1813.77625pt x 648.4225pt>
+File: assets/vt_el.png Graphic file (type png)
+<use assets/vt_el.png>
+Package luatex.def Info: assets/vt_el.png  used on input line 458.
+(luatex.def)             Requested size: 321.51625pt x 114.93996pt.
+ [27
+
+<./assets/vt_el.png>] (./integration_strategies_table.tex
+Underfull \hbox (badness 1112) in paragraph at lines 21--21
+[]|\TU/FiraSans(0)/m/n/8 Sim-ple, fits vir-tual threads
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\TU/FiraSans(0)/m/n/8 No context-switch, Fewer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\TU/FiraSans(0)/m/n/8 In-te-gra-tion done at the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\TU/FiraSans(0)/m/n/8 Netty level, Netty-based
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 21--21
+\TU/FiraSans(0)/m/n/8 frame-works would ben-e-fit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\TU/FiraSans(0)/m/n/8 Can’t mod-ify Netty up-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\TU/FiraSans(0)/m/n/8 stream, un-pre-dictable
+ []
+
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 22.
+) [28
+
+]
+File: assets/forking_workers.png Graphic file (type png)
+<use assets/forking_workers.png>
+Package luatex.def Info: assets/forking_workers.png  used on input line 464.
+(luatex.def)             Requested size: 321.51625pt x 106.93198pt.
+ [29
+
+] (./main.toc) [30
+
+]
+LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 475.
+ [31
+
+] [32
+
+]
+<assets/fancy_elements.png, id=225, 1292.83pt x 250.9375pt>
+File: assets/fancy_elements.png Graphic file (type png)
+<use assets/fancy_elements.png>
+Package luatex.def Info: assets/fancy_elements.png  used on input line 505.
+(luatex.def)             Requested size: 321.51625pt x 62.40492pt.
+ [33
+
+<./assets/fancy_elements.png>] (./main.toc) [34
+
+]
+<assets/nano_200_19.0.1.png, id=242, 1086.9408pt x 594.7821pt>
+File: assets/nano_200_19.0.1.png Graphic file (type png)
+<use assets/nano_200_19.0.1.png>
+Package luatex.def Info: assets/nano_200_19.0.1.png  used on input line 510.
+(luatex.def)             Requested size: 321.51625pt x 175.93112pt.
+ [35
+
+<./assets/nano_200_19.0.1.png>]
+<assets/GC_measures.png, id=249, 968.61874pt x 693.59125pt>
+File: assets/GC_measures.png Graphic file (type png)
+<use assets/GC_measures.png>
+Package luatex.def Info: assets/GC_measures.png  used on input line 513.
+(luatex.def)             Requested size: 289.36266pt x 207.20056pt.
+ [36
+
+<./assets/GC_measures.png>] [37
+
+] [38
+
+] [39
+
+] [40
+
+]
+<assets/deadlock.png, id=276, 901.3675pt x 416.55624pt>
+File: assets/deadlock.png Graphic file (type png)
+<use assets/deadlock.png>
+Package luatex.def Info: assets/deadlock.png  used on input line 545.
+(luatex.def)             Requested size: 321.51625pt x 148.5872pt.
+ [41
+
+<./assets/deadlock.png>]
+<assets/deadlock_situation.png, id=284, 773.89125pt x 177.66376pt>
+File: assets/deadlock_situation.png Graphic file (type png)
+<use assets/deadlock_situation.png>
+Package luatex.def Info: assets/deadlock_situation.png  used on input line 548.
+(luatex.def)             Requested size: 321.51625pt x 73.81041pt.
+ [42
+
+<./assets/deadlock_situation.png>] [43
+
+]
+<assets/nano_baseline_19.0.1.png, id=296, 1094.1678pt x 594.7821pt>
+File: assets/nano_baseline_19.0.1.png Graphic file (type png)
+<use assets/nano_baseline_19.0.1.png>
+Package luatex.def Info: assets/nano_baseline_19.0.1.png  used on input line 556.
+(luatex.def)             Requested size: 321.51625pt x 174.76945pt.
+ [44
+
+<./assets/nano_baseline_19.0.1.png>]
+\tf@nav=\write5
+
+\openout5 = main.nav
+\tf@toc=\write6
+
+\openout6 = main.toc
+\tf@snm=\write7
+
+\openout7 = main.snm
+ (./main.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 39613 strings out of 478278
+ 100000,1977958 words of node,token memory allocated
+ 1585 words of node memory still in use:
+   26 hlist, 8 vlist, 6 rule, 3 disc, 2 local_par, 36 glue, 13 kern, 9 penalty, 23 glyph, 51 attribute, 64 glue_spec, 51 attribute_list, 4 write, 16 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 2:1625,3:678,4:678,5:1369,6:149,7:4959,8:2,9:3588,10:11,11:138
+ 57979 multiletter control sequences out of 65536+600000
+ 142 fonts using 42876779 bytes
+ 128i,17n,148p,488b,910s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-BoldItalic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraMono-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Italic.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Regular.otf></home/pink/texlive/2023/texmf-dist/fonts/opentype/public/fira/FiraSans-Bold.otf>
+Output written on main.pdf (44 pages, 1599877 bytes).
+
+PDF statistics: 355 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 94 named destinations out of 1000 (max. 131072)
+ 48 words of extra memory for PDF output out of 10000 (max. 100000000)
+
